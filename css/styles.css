@@ -779,7 +779,7 @@ right: 5%;
 /* Features */
 .feature {
     gap: 4rem 2rem;
-    margin: 12 0;
+    margin: 12rem 0;
 }
 
 .feature:first-of-type {
